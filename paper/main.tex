@@ -29,13 +29,10 @@ that runs from a false fact, through a neutral question and an instruction to re
 the model the name of the illusion and finally the true answer. Claude Sonnet 5.5 and Claude Haiku 5.5, with
 thinking off and on, gave 460,800 answers. When asked for the physical fact, all four settings almost never gave the
 illusion answer, and they resolved real 10\% differences in the same displays. When asked how the picture
-\emph{looks}, the illusion answers returned, and they did not vanish after the true answer was stated. Two
-measures that cancel position preferences and recognition of the figure show that much of this is driven by the
-stimulus: among side answers, Sonnet with thinking chose the illusion side in 85\% of cases after being told the
+\emph{looks}, the illusion answers returned, and they did not vanish after the true answer was stated. Two measures that cancel position preferences and recognition of the figure suggest that much of this depends on the stimulus: among side answers, Sonnet with thinking chose the illusion side in 85\% of cases after being told the
 truth (95\% CI 74--96\%), with 16 of the 25 illusions showing a stimulus-driven effect. Yet for five figures---the
 Fraser spiral, Kanizsa triangle, Pinna--Brelstaff rings, Ouchi pattern and, for Haiku, the rotating snakes---the
-models gave the illusion answer to the control images as well, i.e.\ they recognised the figure rather than the
-effect. A false fact was followed on control images but overridden on illusion images. The stimuli, prompts, all
+models gave the illusion answer to the control images as well, which suggests that they answered from the figure rather than from the effect. A false fact was mostly followed on control images but not on illusion images. The stimuli, prompts, all
 responses and the code are released for testing further models; the Python code that draws the stimuli is
 parametric and can generate new illusion images for other studies with models or human observers.
 \end{abstract}
@@ -157,8 +154,7 @@ above 0.
 At rung 2 the share of illusion answers fell to 0.13 (Haiku, thinking off), 0.03 (Haiku, on), 0.004 (Sonnet, off)
 and 0.006 (Sonnet, on) (Fig.~\ref{fig:curves}a). On the control images with a real 10\% difference the models chose
 the physically larger side at rung 0 in 77\% (Haiku off), 100\% (Haiku on), 99\% (Sonnet off) and 100\% (Sonnet on) of
-the calls. The models can therefore measure the compared property in these displays, and when asked to do so they
-report it correctly.
+the calls. This suggests that the models can resolve the compared property in these displays and report it when asked for the physical fact.
 
 \subsection{Questions about appearance (rungs 0, 1 and 3--6)}
 
@@ -168,7 +164,7 @@ stating the true answer (rung 6): $p_{\rm ill}$ at rung 6 was 0.71, 0.81, 0.89 a
 (a warning not to be fooled) was the only appearance question that reduced illusion answers, most strongly with
 thinking.
 
-The direction measure $D$ shows that this is not a side preference (Fig.~\ref{fig:curves}b). For Sonnet with thinking
+The direction measure $D$ suggests that this is not only a side preference (Fig.~\ref{fig:curves}b). For Sonnet with thinking
 $D$ was 0.81 [0.64, 0.94] at rung 0 and 0.85 [0.74, 0.96] at rung 6; for Haiku with thinking 0.79 and 0.77. Haiku
 without thinking was near chance (0.54 and 0.55): its side answers did not follow the inducing elements. For the
 yes/no items the stimulus effect $\Delta$ was smaller, 0.33 [0.08, 0.57] for Sonnet with thinking at rung 6
@@ -235,10 +231,9 @@ stimulus: Sonnet with thinking named the rotation direction predicted by the lum
 
 At rung $-1$ the models were told that the side opposite the illusion is slightly larger and then asked which looks
 larger. On the illusion images, the side answers went to the illusion side, against the false fact ($D=0.81$--$0.87$).
-The same wording on the control images, where the false side is random, shows how the models treat the statement
-itself: Sonnet named the stated side (share of the other side 0.16 [0.04, 0.32] without and 0.16 [0.03, 0.34] with
+The same wording on the control images, where the false side is random, gives an indication of how the models treat the statement itself: Sonnet named the stated side (share of the other side 0.16 [0.04, 0.32] without and 0.16 [0.03, 0.34] with
 thinking), whereas Haiku without thinking tended to name the other side (0.69), apparently reading ``even so'' as a
-contrast. For Sonnet, then, the illusion overrides a statement that the model otherwise follows.
+contrast. For Sonnet, this suggests that the illusion images can override a statement that the model otherwise tends to follow.
 
 \subsection{Thinking off and on}
 
@@ -265,18 +260,16 @@ from its shape), mean of the four settings. $\pm$10\%: share of correct answers 
 \section{Discussion}
 
 Two current VLMs reported many classical illusions in the direction known from human perception, and---as for human
-observers---these answers survived being told the truth. Three observations argue that this is not only a matter of
-remembered facts about famous figures. The stimuli were new drawings with varied layout; the answers followed the
+observers---these answers survived being told the truth. Three observations suggest that this may not be only a matter of remembered facts about famous figures. The stimuli were new drawings with varied layout; the answers followed the
 inducing elements when they were reversed, which cancels any preference for a side or label; and the same displays
-with a real 10\% difference, or the question about the physical fact, were answered correctly, so the models were not
-simply unable to see the difference.
+with a real 10\% difference, or the question about the physical fact, were answered correctly, which makes it unlikely that the models simply could not see the difference.
 
-At the same time, recognition of a figure is clearly a second route to the illusion answer. For figures whose
+At the same time, recognition of a figure appears to be a second route to the illusion answer. For figures whose
 illusion is motion or an illusory surface (Fraser spiral, Pinna--Brelstaff, Ouchi, Kanizsa) the control images, which
 do not induce the illusion in humans, received the same answers, consistent with reports of VLMs seeing illusions
-where there are none \citep{ullman2024illusion}. Measures without such controls would count these as illusions.
+where there are none \citep{ullman2024illusion}. Measures without such controls might count these as illusions.
 
-The instruction ladder also separates the effects of instruction. Only the question about the physical fact (rung 2)
+The instruction ladder also helps to separate the effects of instruction. Only the question about the physical fact (rung 2)
 removed illusion answers; information about the illusion (rungs 3--5) did not, and the true answer (rung 6) did not.
 This dissociation between ``what is'' and ``what looks'' resembles the cognitive impenetrability of human illusions
 \citep{pylyshyn1999,firestone2016}, but it may equally reflect that the models have learnt how people describe the
