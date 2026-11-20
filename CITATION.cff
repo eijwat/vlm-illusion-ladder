@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these stimuli, data or code, please cite them as below."
+title: "vlm-illusion-ladder: an instruction ladder for classical visual illusions in vision-language models"
+authors:
+  - family-names: Watanabe
+    given-names: Eiji
+    orcid: "https://orcid.org/0000-0001-9089-8122"
+    affiliation: "National Institute for Basic Biology"
+license: MIT AND CC-BY-4.0
+repository-code: "https://github.com/eijwat/vlm-illusion-ladder"
+keywords:
+  - visual illusions
+  - vision-language models
+  - perception
+  - benchmark

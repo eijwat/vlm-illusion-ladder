@@ -1,0 +1,138 @@
+Mean over illusions by rung, with 95% bootstrap intervals over illusions
+
+p_ill, all 25 illusions (share of illusion answers, normal + reversed)
+                           -1                0                1                2                3                4                5                6
+Haiku/off     0.70 [0.60,0.80]  0.50 [0.37,0.64]  0.42 [0.30,0.55]  0.13 [0.06,0.21]  0.62 [0.49,0.73]  0.58 [0.46,0.71]  0.73 [0.61,0.84]  0.71 [0.59,0.82]
+Haiku/on      0.67 [0.54,0.80]  0.48 [0.34,0.62]  0.17 [0.09,0.28]  0.03 [0.00,0.07]  0.70 [0.56,0.83]  0.73 [0.59,0.85]  0.76 [0.62,0.88]  0.81 [0.67,0.91]
+Sonnet/off    0.78 [0.67,0.87]  0.72 [0.59,0.84]  0.45 [0.31,0.58]  0.00 [0.00,0.01]  0.83 [0.72,0.92]  0.84 [0.73,0.93]  0.81 [0.70,0.91]  0.89 [0.81,0.96]
+Sonnet/on     0.77 [0.64,0.88]  0.66 [0.51,0.79]  0.25 [0.15,0.36]  0.01 [0.00,0.02]  0.81 [0.70,0.91]  0.82 [0.72,0.92]  0.78 [0.66,0.88]  0.87 [0.79,0.94]
+
+D, 13 two-sided illusions (direction among side answers; 0.5 = none)
+                           -1                0                1                2                3                4                5                6
+Haiku/off     0.81 [0.68,0.91]  0.54 [0.38,0.70]  0.56 [0.42,0.70]  0.48 [0.30,0.66]  0.61 [0.50,0.72]  0.52 [0.42,0.63]  0.63 [0.53,0.75]  0.55 [0.41,0.68]
+Haiku/on      0.81 [0.65,0.93]  0.79 [0.61,0.93]  0.77 [0.55,0.95]  0.41 [0.00,0.80]  0.77 [0.60,0.92]  0.76 [0.59,0.92]  0.76 [0.61,0.90]  0.77 [0.66,0.89]
+Sonnet/off    0.81 [0.70,0.92]  0.72 [0.54,0.89]  0.81 [0.65,0.94]  0.56 [0.00,1.00]  0.76 [0.64,0.89]  0.78 [0.65,0.90]  0.76 [0.62,0.89]  0.81 [0.67,0.93]
+Sonnet/on     0.87 [0.77,0.96]  0.81 [0.64,0.94]  0.92 [0.78,1.00]  0.75 [0.00,1.00]  0.85 [0.73,0.95]  0.84 [0.73,0.94]  0.85 [0.73,0.96]  0.85 [0.73,0.96]
+
+delta, 12 yes/no illusions (p_ill normal+reversed - p_ill-word on control)
+                           -1                0                1                2                3                4                5                6
+Haiku/off     0.14 [-0.00,0.27]  0.17 [0.03,0.34]  0.18 [0.05,0.34]  -0.00 [-0.03,0.02]  0.12 [0.02,0.23]  0.12 [0.02,0.26]  0.13 [0.03,0.25]  0.17 [0.04,0.33]
+Haiku/on      0.16 [0.06,0.26]  0.16 [0.03,0.32]  0.06 [-0.06,0.16]  -0.06 [-0.19,0.00]  0.17 [0.07,0.28]  0.15 [0.04,0.27]  0.22 [0.04,0.47]  0.24 [0.09,0.40]
+Sonnet/off    0.32 [0.12,0.54]  0.38 [0.14,0.62]  0.29 [0.12,0.50]  -0.00 [-0.01,0.00]  0.36 [0.15,0.59]  0.34 [0.13,0.57]  0.26 [0.03,0.51]  0.31 [0.09,0.54]
+Sonnet/on     0.30 [0.11,0.48]  0.33 [0.09,0.57]  0.14 [0.05,0.25]  0.00 [0.00,0.00]  0.33 [0.10,0.60]  0.36 [0.13,0.61]  0.26 [0.06,0.49]  0.33 [0.08,0.58]
+
+Rung -1, two-sided: D on the illusion images vs the same measure on the control images (share of side
+answers NOT on the side the false fact names; on the illusion images that is the illusion side)
+   Haiku/off    illusion 0.81 [0.68,0.91]   control 0.69 [0.51,0.85]
+   Haiku/on     illusion 0.81 [0.65,0.93]   control 0.42 [0.24,0.62]
+   Sonnet/off   illusion 0.81 [0.70,0.92]   control 0.16 [0.04,0.32]
+   Sonnet/on    illusion 0.87 [0.77,0.96]   control 0.16 [0.03,0.34]
+
+Haiku/off: per illusion, rungs 0 and 6  (two-sided: D; yes/no: delta;  [p_ill])
+   muller_lyer            two-sided D       0.47 ->   0.41    [0.20 -> 0.41]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   ponzo                  two-sided D       0.74 ->   0.52    [0.05 -> 0.47]   control correct r0 1.00   +-10% correct r0 0.97 r2 0.99
+   ebbinghaus             two-sided D       0.48 ->   0.64    [0.48 -> 0.63]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   delboeuf               two-sided D       0.05 ->   0.22    [0.04 -> 0.21]   control correct r0 1.00   +-10% correct r0 0.98 r2 1.00
+   vertical_horizontal    two-sided D       0.26 ->   0.63    [0.26 -> 0.63]   control correct r0 0.00   +-10% correct r0 0.50 r2 0.50
+   jastrow                two-sided D       0.51 ->   0.46    [0.45 -> 0.26]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   poggendorff            two-sided D       0.87 ->   0.98    [0.60 -> 0.90]   control correct r0 1.00   +-10% correct r0 0.88 r2 0.58
+   zollner                yes/no    delta  -0.01 ->  -0.03    [0.10 -> 0.96]   control correct r0 0.89
+   cafe_wall              yes/no    delta   0.89 ->   0.14    [0.99 -> 1.00]   control correct r0 0.90
+   hering                 yes/no    delta   0.46 ->   0.03    [0.46 -> 1.00]   control correct r0 1.00
+   fraser_spiral          yes/no    delta   0.05 ->   0.00    [1.00 -> 1.00]   control correct r0 0.05
+   simultaneous_contrast  two-sided D       0.94 ->   0.79    [0.94 -> 0.79]   control correct r0 1.00   +-10% correct r0 0.83 r2 0.95
+   checker_shadow         two-sided D       0.48 ->   0.53    [0.43 -> 0.53]   control correct r0 0.46   +-10% correct r0 1.00 r2 0.49
+   white_effect           two-sided D       0.79 ->   0.42    [0.37 -> 0.40]   control correct r0 0.81   +-10% correct r0 0.27 r2 0.39
+   hermann_grid           yes/no    delta   0.28 ->   0.73    [0.41 -> 0.81]   control correct r0 0.88
+   scintillating_grid     yes/no    delta   0.07 ->   0.02    [0.07 -> 0.62]   control correct r0 1.00
+   munker_white           yes/no    delta   0.00 ->   0.38    [0.00 -> 1.00]   control correct r0 1.00
+   color_contrast         two-sided D       0.00 ->   0.01    [0.00 -> 0.01]   control correct r0 1.00
+   neon_spreading         yes/no    delta   0.33 ->   0.15    [0.60 -> 0.66]   control correct r0 0.73
+   kanizsa                yes/no    delta   0.03 ->   0.00    [0.93 -> 1.00]   control correct r0 0.10
+   ehrenstein             yes/no    delta  -0.13 ->   0.58    [0.70 -> 1.00]   control correct r0 0.17
+   rotating_snakes        two-sided D       0.50 ->   0.50    [0.50 -> 0.50]   control correct r0 0.00
+   pinna_brelstaff        yes/no    delta   0.06 ->   0.00    [1.00 -> 1.00]   control correct r0 0.06
+   ouchi                  yes/no    delta   0.01 ->   0.00    [1.00 -> 1.00]   control correct r0 0.01
+   shepard_tables         two-sided D       0.97 ->   0.99    [0.97 -> 0.98]   control correct r0 0.91   +-10% correct r0 0.00 r2 0.09
+
+Haiku/on: per illusion, rungs 0 and 6  (two-sided: D; yes/no: delta;  [p_ill])
+   muller_lyer            two-sided D       0.84 ->   0.81    [0.42 -> 0.81]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   ponzo                  two-sided D       0.88 ->   0.75    [0.08 -> 0.71]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   ebbinghaus             two-sided D       1.00 ->   0.93    [0.58 -> 0.93]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   delboeuf               two-sided D       0.97 ->   1.00    [0.18 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   vertical_horizontal    two-sided D       0.76 ->   0.50    [0.08 -> 0.50]   control correct r0 0.85   +-10% correct r0 0.98 r2 1.00
+   jastrow                two-sided D          - ->   0.54    [0.00 -> 0.16]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   poggendorff            two-sided D       0.00 ->   0.41    [0.00 -> 0.15]   control correct r0 0.95   +-10% correct r0 1.00 r2 1.00
+   zollner                yes/no    delta   0.10 ->   0.58    [0.10 -> 1.00]   control correct r0 1.00
+   cafe_wall              yes/no    delta   0.49 ->   0.02    [0.55 -> 1.00]   control correct r0 0.94
+   hering                 yes/no    delta   0.49 ->   0.61    [0.49 -> 0.99]   control correct r0 1.00
+   fraser_spiral          yes/no    delta   0.01 ->   0.00    [1.00 -> 1.00]   control correct r0 0.01
+   simultaneous_contrast  two-sided D       1.00 ->   0.97    [0.99 -> 0.97]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   checker_shadow         two-sided D       0.93 ->   1.00    [0.27 -> 1.00]   control correct r0 1.00   +-10% correct r0 0.99 r2 0.58
+   white_effect           two-sided D       0.55 ->   0.65    [0.48 -> 0.64]   control correct r0 1.00   +-10% correct r0 1.00 r2 0.91
+   hermann_grid           yes/no    delta   0.78 ->   0.21    [0.99 -> 1.00]   control correct r0 0.79
+   scintillating_grid     yes/no    delta   0.00 ->   0.03    [0.00 -> 0.05]   control correct r0 1.00
+   munker_white           yes/no    delta   0.13 ->   0.73    [0.13 -> 1.00]   control correct r0 1.00
+   color_contrast         two-sided D       1.00 ->   1.00    [0.99 -> 1.00]   control correct r0 1.00
+   neon_spreading         yes/no    delta   0.02 ->   0.18    [0.24 -> 0.97]   control correct r0 0.77
+   kanizsa                yes/no    delta  -0.08 ->   0.02    [0.82 -> 1.00]   control correct r0 0.10
+   ehrenstein             yes/no    delta  -0.03 ->   0.50    [0.82 -> 0.99]   control correct r0 0.16
+   rotating_snakes        two-sided D       0.53 ->   0.51    [0.53 -> 0.51]   control correct r0 0.00
+   pinna_brelstaff        yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   ouchi                  yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   shepard_tables         two-sided D       1.00 ->   1.00    [0.23 -> 0.76]   control correct r0 1.00   +-10% correct r0 1.00 r2 0.99
+
+Sonnet/off: per illusion, rungs 0 and 6  (two-sided: D; yes/no: delta;  [p_ill])
+   muller_lyer            two-sided D       1.00 ->   1.00    [1.00 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   ponzo                  two-sided D       0.50 ->   0.50    [0.50 -> 0.50]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   ebbinghaus             two-sided D       1.00 ->   1.00    [1.00 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   delboeuf               two-sided D       0.89 ->   1.00    [0.68 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   vertical_horizontal    two-sided D       0.59 ->   0.50    [0.43 -> 0.50]   control correct r0 0.80   +-10% correct r0 1.00 r2 1.00
+   jastrow                two-sided D       0.23 ->   0.38    [0.08 -> 0.38]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   poggendorff            two-sided D       0.00 ->   0.58    [0.00 -> 0.58]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   zollner                yes/no    delta   0.76 ->   0.34    [1.00 -> 1.00]   control correct r0 0.76
+   cafe_wall              yes/no    delta   0.30 ->   0.14    [0.86 -> 0.93]   control correct r0 0.42
+   hering                 yes/no    delta   1.00 ->   0.74    [1.00 -> 1.00]   control correct r0 1.00
+   fraser_spiral          yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   simultaneous_contrast  two-sided D       1.00 ->   1.00    [1.00 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   checker_shadow         two-sided D       0.99 ->   1.00    [0.86 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   white_effect           two-sided D       0.53 ->   0.59    [0.53 -> 0.59]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   hermann_grid           yes/no    delta   0.82 ->   0.56    [1.00 -> 0.98]   control correct r0 0.82
+   scintillating_grid     yes/no    delta   0.01 ->  -0.03    [0.02 -> 0.96]   control correct r0 0.98
+   munker_white           yes/no    delta   0.72 ->   0.99    [0.72 -> 1.00]   control correct r0 1.00
+   color_contrast         two-sided D       1.00 ->   1.00    [1.00 -> 1.00]   control correct r0 1.00
+   neon_spreading         yes/no    delta   0.46 ->   0.00    [0.71 -> 1.00]   control correct r0 0.75
+   kanizsa                yes/no    delta  -0.37 ->  -0.07    [0.63 -> 0.93]   control correct r0 0.00
+   ehrenstein             yes/no    delta   0.88 ->   0.99    [0.97 -> 1.00]   control correct r0 0.91
+   rotating_snakes        two-sided D       0.61 ->   0.94    [0.61 -> 0.94]   control correct r0 0.00
+   pinna_brelstaff        yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   ouchi                  yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   shepard_tables         two-sided D       1.00 ->   1.00    [0.48 -> 1.00]   control correct r0 1.00   +-10% correct r0 0.94 r2 1.00
+
+Sonnet/on: per illusion, rungs 0 and 6  (two-sided: D; yes/no: delta;  [p_ill])
+   muller_lyer            two-sided D       1.00 ->   1.00    [0.95 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   ponzo                  two-sided D       0.50 ->   0.46    [0.50 -> 0.46]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   ebbinghaus             two-sided D       1.00 ->   1.00    [0.73 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   delboeuf               two-sided D       0.96 ->   1.00    [0.54 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   vertical_horizontal    two-sided D       0.36 ->   0.50    [0.04 -> 0.50]   control correct r0 0.64   +-10% correct r0 1.00 r2 1.00
+   jastrow                two-sided D       0.13 ->   0.50    [0.01 -> 0.50]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   poggendorff            two-sided D       0.83 ->   0.78    [0.01 -> 0.78]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   zollner                yes/no    delta   0.83 ->   0.37    [1.00 -> 1.00]   control correct r0 0.83
+   cafe_wall              yes/no    delta   0.38 ->   0.47    [0.78 -> 0.99]   control correct r0 0.60
+   hering                 yes/no    delta   0.93 ->   0.89    [0.93 -> 1.00]   control correct r0 1.00
+   fraser_spiral          yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   simultaneous_contrast  two-sided D       1.00 ->   1.00    [1.00 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   checker_shadow         two-sided D       1.00 ->   1.00    [0.69 -> 1.00]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   white_effect           two-sided D       0.83 ->   0.88    [0.83 -> 0.88]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+   hermann_grid           yes/no    delta   0.53 ->   0.70    [0.53 -> 0.72]   control correct r0 0.99
+   scintillating_grid     yes/no    delta   0.00 ->  -0.28    [0.00 -> 0.55]   control correct r0 1.00
+   munker_white           yes/no    delta   0.79 ->   1.00    [0.79 -> 1.00]   control correct r0 1.00
+   color_contrast         two-sided D       1.00 ->   1.00    [1.00 -> 1.00]   control correct r0 1.00
+   neon_spreading         yes/no    delta   0.14 ->   0.13    [0.15 -> 0.92]   control correct r0 0.99
+   kanizsa                yes/no    delta  -0.45 ->  -0.21    [0.52 -> 0.59]   control correct r0 0.03
+   ehrenstein             yes/no    delta   0.80 ->   0.92    [0.83 -> 0.92]   control correct r0 0.98
+   rotating_snakes        two-sided D       0.99 ->   0.98    [0.99 -> 0.98]   control correct r0 0.08
+   pinna_brelstaff        yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   ouchi                  yes/no    delta   0.00 ->   0.00    [1.00 -> 1.00]   control correct r0 0.00
+   shepard_tables         two-sided D       0.91 ->   0.99    [0.61 -> 0.99]   control correct r0 1.00   +-10% correct r0 1.00 r2 1.00
+

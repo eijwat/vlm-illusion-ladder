@@ -1,0 +1,10 @@
+{
+  "title": "vlm-illusion-ladder: an instruction ladder for classical visual illusions in vision-language models",
+  "upload_type": "dataset",
+  "creators": [
+    {"name": "Watanabe, Eiji", "affiliation": "National Institute for Basic Biology", "orcid": "0000-0001-9089-8122"}
+  ],
+  "description": "300 self-drawn stimuli of 25 classical visual illusions (normal, reversed and control conditions), an 8-rung instruction ladder of prompts from a false fact to the stated truth, 460,800 responses of Claude Sonnet 5.5 and Claude Haiku 5.5 with thinking off and on, and the analysis code. Code: MIT. Stimuli, prompts, data and results: CC BY 4.0.",
+  "license": "cc-by-4.0",
+  "keywords": ["visual illusions", "vision-language models", "perception", "benchmark"]
+}

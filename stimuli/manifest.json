@@ -1,0 +1,5594 @@
+[
+ {
+  "id": "01_muller_lyer_normal_0",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {
+   "fin": 76,
+   "angle": 37
+  }
+ },
+ {
+  "id": "01_muller_lyer_normal_1",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {
+   "fin": 60,
+   "angle": 33
+  }
+ },
+ {
+  "id": "01_muller_lyer_normal_2",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {
+   "fin": 63,
+   "angle": 37
+  }
+ },
+ {
+  "id": "01_muller_lyer_normal_3",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {
+   "fin": 69,
+   "angle": 34
+  }
+ },
+ {
+  "id": "01_muller_lyer_reverse_0",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {
+   "fin": 70,
+   "angle": 32
+  }
+ },
+ {
+  "id": "01_muller_lyer_reverse_1",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {
+   "fin": 69,
+   "angle": 38
+  }
+ },
+ {
+  "id": "01_muller_lyer_reverse_2",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {
+   "fin": 74,
+   "angle": 33
+  }
+ },
+ {
+  "id": "01_muller_lyer_reverse_3",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {
+   "fin": 77,
+   "angle": 35
+  }
+ },
+ {
+  "id": "01_muller_lyer_none_0",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {
+   "fin": 78,
+   "angle": 37
+  }
+ },
+ {
+  "id": "01_muller_lyer_none_1",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which line looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {
+   "fin": 61,
+   "angle": 31
+  }
+ },
+ {
+  "id": "01_muller_lyer_none_2",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which line looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "top",
+  "illusion_answer": null,
+  "params": {
+   "fin": 61,
+   "angle": 37
+  }
+ },
+ {
+  "id": "01_muller_lyer_none_3",
+  "n": 1,
+  "illusion": "muller_lyer",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which line looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "right",
+  "illusion_answer": null,
+  "params": {
+   "fin": 79,
+   "angle": 32
+  }
+ },
+ {
+  "id": "02_ponzo_normal_0",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_normal_1",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_normal_2",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_normal_3",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_reverse_0",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_reverse_1",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_reverse_2",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_reverse_3",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_none_0",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_none_1",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_none_2",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "top",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "02_ponzo_none_3",
+  "n": 2,
+  "illusion": "ponzo",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which of the two short bars looks longer?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "right",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_normal_0",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_normal_1",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_normal_2",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_normal_3",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_reverse_0",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_reverse_1",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_reverse_2",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_reverse_3",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_none_0",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_none_1",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_none_2",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "left",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "03_ebbinghaus_none_3",
+  "n": 3,
+  "illusion": "ebbinghaus",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which central circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "bottom",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_normal_0",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_normal_1",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_normal_2",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_normal_3",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_reverse_0",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_reverse_1",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_reverse_2",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_reverse_3",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_none_0",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_none_1",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_none_2",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "left",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "04_delboeuf_none_3",
+  "n": 4,
+  "illusion": "delboeuf",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which filled circle looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "bottom",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_normal_0",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "vertical",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_normal_1",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "vertical",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_normal_2",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "vertical",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_normal_3",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "vertical",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_reverse_0",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "horizontal",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_reverse_1",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "horizontal",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_reverse_2",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "horizontal",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_reverse_3",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "horizontal",
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_none_0",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_none_1",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_none_2",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "vertical",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "05_vertical_horizontal_none_3",
+  "n": 5,
+  "illusion": "vertical_horizontal",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which line looks longer, the vertical or the horizontal one?",
+  "options": [
+   "vertical",
+   "horizontal",
+   "same"
+  ],
+  "correct": "horizontal",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_normal_0",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_normal_1",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_normal_2",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_normal_3",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_reverse_0",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_reverse_1",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_reverse_2",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_reverse_3",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_none_0",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_none_1",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_none_2",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "top",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "06_jastrow_none_3",
+  "n": 6,
+  "illusion": "jastrow",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which of the two shapes looks larger?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "right",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "07_poggendorff_normal_0",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "higher",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 172
+  }
+ },
+ {
+  "id": "07_poggendorff_normal_1",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "higher",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 185
+  }
+ },
+ {
+  "id": "07_poggendorff_normal_2",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "higher",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 179
+  }
+ },
+ {
+  "id": "07_poggendorff_normal_3",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "higher",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 170
+  }
+ },
+ {
+  "id": "07_poggendorff_reverse_0",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "lower",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 185
+  }
+ },
+ {
+  "id": "07_poggendorff_reverse_1",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "lower",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 183
+  }
+ },
+ {
+  "id": "07_poggendorff_reverse_2",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "lower",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 180
+  }
+ },
+ {
+  "id": "07_poggendorff_reverse_3",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": "lower",
+  "params": {
+   "shift_px": 0,
+   "theta": 45.0,
+   "bar": 181
+  }
+ },
+ {
+  "id": "07_poggendorff_none_0",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": null,
+  "params": {
+   "shift_px": 0,
+   "theta": 0.0,
+   "bar": 177
+  }
+ },
+ {
+  "id": "07_poggendorff_none_1",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "aligned",
+  "illusion_answer": null,
+  "params": {
+   "shift_px": 0,
+   "theta": 0.0,
+   "bar": 197
+  }
+ },
+ {
+  "id": "07_poggendorff_none_2",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "higher",
+  "illusion_answer": null,
+  "params": {
+   "shift_px": -28,
+   "theta": 0.0,
+   "bar": 191
+  }
+ },
+ {
+  "id": "07_poggendorff_none_3",
+  "n": 7,
+  "illusion": "poggendorff",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",
+  "options": [
+   "higher",
+   "lower",
+   "aligned"
+  ],
+  "correct": "lower",
+  "illusion_answer": null,
+  "params": {
+   "shift_px": 28,
+   "theta": 0.0,
+   "bar": 194
+  }
+ },
+ {
+  "id": "08_zollner_normal_0",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_normal_1",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_normal_2",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_normal_3",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_reverse_0",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_reverse_1",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_reverse_2",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_reverse_3",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "08_zollner_none_0",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "08_zollner_none_1",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "08_zollner_none_2",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "08_zollner_none_3",
+  "n": 8,
+  "illusion": "zollner",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the long lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "09_cafe_wall_normal_0",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 79
+  }
+ },
+ {
+  "id": "09_cafe_wall_normal_1",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 70
+  }
+ },
+ {
+  "id": "09_cafe_wall_normal_2",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 81
+  }
+ },
+ {
+  "id": "09_cafe_wall_normal_3",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 82
+  }
+ },
+ {
+  "id": "09_cafe_wall_reverse_0",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 75
+  }
+ },
+ {
+  "id": "09_cafe_wall_reverse_1",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 84
+  }
+ },
+ {
+  "id": "09_cafe_wall_reverse_2",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 73
+  }
+ },
+ {
+  "id": "09_cafe_wall_reverse_3",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {
+   "tile": 70
+  }
+ },
+ {
+  "id": "09_cafe_wall_none_0",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {
+   "tile": 72
+  }
+ },
+ {
+  "id": "09_cafe_wall_none_1",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {
+   "tile": 80
+  }
+ },
+ {
+  "id": "09_cafe_wall_none_2",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {
+   "tile": 71
+  }
+ },
+ {
+  "id": "09_cafe_wall_none_3",
+  "n": 9,
+  "illusion": "cafe_wall",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the horizontal grey lines look parallel to each other?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {
+   "tile": 82
+  }
+ },
+ {
+  "id": "10_hering_normal_0",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_normal_1",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_normal_2",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_normal_3",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_reverse_0",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_reverse_1",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_reverse_2",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_reverse_3",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "10_hering_none_0",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "10_hering_none_1",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "10_hering_none_2",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "10_hering_none_3",
+  "n": 10,
+  "illusion": "hering",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the two thick lines look straight?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "11_fraser_spiral_normal_0",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 40,
+   "alpha": 17.0
+  }
+ },
+ {
+  "id": "11_fraser_spiral_normal_1",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 40,
+   "alpha": 19.8
+  }
+ },
+ {
+  "id": "11_fraser_spiral_normal_2",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 36,
+   "alpha": 19.3
+  }
+ },
+ {
+  "id": "11_fraser_spiral_normal_3",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 40,
+   "alpha": 19.3
+  }
+ },
+ {
+  "id": "11_fraser_spiral_reverse_0",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 36,
+   "alpha": -16.4
+  }
+ },
+ {
+  "id": "11_fraser_spiral_reverse_1",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 36,
+   "alpha": -17.0
+  }
+ },
+ {
+  "id": "11_fraser_spiral_reverse_2",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 40,
+   "alpha": -19.5
+  }
+ },
+ {
+  "id": "11_fraser_spiral_reverse_3",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "cells": 36,
+   "alpha": -19.9
+  }
+ },
+ {
+  "id": "11_fraser_spiral_none_0",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "cells": 36,
+   "alpha": 0.0
+  }
+ },
+ {
+  "id": "11_fraser_spiral_none_1",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "cells": 40,
+   "alpha": 0.0
+  }
+ },
+ {
+  "id": "11_fraser_spiral_none_2",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "cells": 36,
+   "alpha": 0.0
+  }
+ },
+ {
+  "id": "11_fraser_spiral_none_3",
+  "n": 11,
+  "illusion": "fraser_spiral",
+  "category": "G",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the pattern look like a spiral?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "cells": 40,
+   "alpha": 0.0
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_normal_0",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {
+   "grey": 137,
+   "dark": 22,
+   "light": 232
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_normal_1",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {
+   "grey": 138,
+   "dark": 17,
+   "light": 210
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_normal_2",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {
+   "grey": 127,
+   "dark": 18,
+   "light": 223
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_normal_3",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {
+   "grey": 122,
+   "dark": 41,
+   "light": 223
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_reverse_0",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {
+   "grey": 133,
+   "dark": 21,
+   "light": 228
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_reverse_1",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {
+   "grey": 135,
+   "dark": 27,
+   "light": 231
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_reverse_2",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {
+   "grey": 134,
+   "dark": 19,
+   "light": 228
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_reverse_3",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {
+   "grey": 134,
+   "dark": 19,
+   "light": 235
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_none_0",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {
+   "grey": 124,
+   "dark": 32,
+   "light": 228
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_none_1",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {
+   "grey": 123,
+   "dark": 42,
+   "light": 227
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_none_2",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "left",
+  "illusion_answer": null,
+  "params": {
+   "grey": 132,
+   "dark": 42,
+   "light": 226
+  }
+ },
+ {
+  "id": "12_simultaneous_contrast_none_3",
+  "n": 12,
+  "illusion": "simultaneous_contrast",
+  "category": "L",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which small grey square looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "bottom",
+  "illusion_answer": null,
+  "params": {
+   "grey": 119,
+   "dark": 17,
+   "light": 230
+  }
+ },
+ {
+  "id": "13_checker_shadow_normal_0",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "B",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_normal_1",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "B",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_normal_2",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "B",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_normal_3",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "B",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_reverse_0",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "A",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_reverse_1",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "A",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_reverse_2",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "A",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_reverse_3",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "A",
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_none_0",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_none_1",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_none_2",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "A",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "13_checker_shadow_none_3",
+  "n": 13,
+  "illusion": "checker_shadow",
+  "category": "L",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which square looks lighter, A or B?",
+  "options": [
+   "A",
+   "B",
+   "same"
+  ],
+  "correct": "B",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "14_white_effect_normal_0",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {
+   "grey": 136
+  }
+ },
+ {
+  "id": "14_white_effect_normal_1",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {
+   "grey": 136
+  }
+ },
+ {
+  "id": "14_white_effect_normal_2",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {
+   "grey": 134
+  }
+ },
+ {
+  "id": "14_white_effect_normal_3",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {
+   "grey": 128
+  }
+ },
+ {
+  "id": "14_white_effect_reverse_0",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {
+   "grey": 127
+  }
+ },
+ {
+  "id": "14_white_effect_reverse_1",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {
+   "grey": 118
+  }
+ },
+ {
+  "id": "14_white_effect_reverse_2",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {
+   "grey": 133
+  }
+ },
+ {
+  "id": "14_white_effect_reverse_3",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {
+   "grey": 128
+  }
+ },
+ {
+  "id": "14_white_effect_none_0",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {
+   "grey": 130
+  }
+ },
+ {
+  "id": "14_white_effect_none_1",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {
+   "grey": 135
+  }
+ },
+ {
+  "id": "14_white_effect_none_2",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "left",
+  "illusion_answer": null,
+  "params": {
+   "grey": 130
+  }
+ },
+ {
+  "id": "14_white_effect_none_3",
+  "n": 14,
+  "illusion": "white_effect",
+  "category": "L",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which group of grey bars looks lighter?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "bottom",
+  "illusion_answer": null,
+  "params": {
+   "grey": 118
+  }
+ },
+ {
+  "id": "15_hermann_grid_normal_0",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 88,
+   "street": 20
+  }
+ },
+ {
+  "id": "15_hermann_grid_normal_1",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 88,
+   "street": 24
+  }
+ },
+ {
+  "id": "15_hermann_grid_normal_2",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 88,
+   "street": 21
+  }
+ },
+ {
+  "id": "15_hermann_grid_normal_3",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 93,
+   "street": 22
+  }
+ },
+ {
+  "id": "15_hermann_grid_reverse_0",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 93,
+   "street": 23
+  }
+ },
+ {
+  "id": "15_hermann_grid_reverse_1",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 85,
+   "street": 24
+  }
+ },
+ {
+  "id": "15_hermann_grid_reverse_2",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 87,
+   "street": 19
+  }
+ },
+ {
+  "id": "15_hermann_grid_reverse_3",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "square": 94,
+   "street": 21
+  }
+ },
+ {
+  "id": "15_hermann_grid_none_0",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "square": 91,
+   "street": 20
+  }
+ },
+ {
+  "id": "15_hermann_grid_none_1",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "square": 90,
+   "street": 19
+  }
+ },
+ {
+  "id": "15_hermann_grid_none_2",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "square": 86,
+   "street": 20
+  }
+ },
+ {
+  "id": "15_hermann_grid_none_3",
+  "n": 15,
+  "illusion": "hermann_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see faint spots where the lines cross?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "square": 92,
+   "street": 20
+  }
+ },
+ {
+  "id": "16_scintillating_grid_normal_0",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_normal_1",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_normal_2",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_normal_3",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_reverse_0",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_reverse_1",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_reverse_2",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_reverse_3",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_none_0",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_none_1",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_none_2",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "16_scintillating_grid_none_3",
+  "n": 16,
+  "illusion": "scintillating_grid",
+  "category": "L",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see dark dots inside the white discs?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_normal_0",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_normal_1",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_normal_2",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_normal_3",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_reverse_0",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_reverse_1",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_reverse_2",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_reverse_3",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": "no",
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_none_0",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_none_1",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_none_2",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "17_munker_white_none_3",
+  "n": 17,
+  "illusion": "munker_white",
+  "category": "C",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do the orange stripes on the two sides look the same colour?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "yes",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_normal_0",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_normal_1",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_normal_2",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_normal_3",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "top",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_reverse_0",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_reverse_1",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_reverse_2",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_reverse_3",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "bottom",
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_none_0",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_none_1",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_none_2",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "18_color_contrast_none_3",
+  "n": 18,
+  "illusion": "color_contrast",
+  "category": "C",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which small grey square looks more reddish?",
+  "options": [
+   "top",
+   "bottom",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_normal_0",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_normal_1",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_normal_2",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_normal_3",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_reverse_0",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_reverse_1",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_reverse_2",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_reverse_3",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_none_0",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_none_1",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_none_2",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "19_neon_spreading_none_3",
+  "n": 19,
+  "illusion": "neon_spreading",
+  "category": "C",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a faint coloured disc filling the centre, between the lines?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_normal_0",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_normal_1",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_normal_2",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_normal_3",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_reverse_0",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_reverse_1",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_reverse_2",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_reverse_3",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_none_0",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_none_1",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_none_2",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "20_kanizsa_none_3",
+  "n": 20,
+  "illusion": "kanizsa",
+  "category": "K",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a white triangle with clear edges lying on top of the black shapes?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "21_ehrenstein_normal_0",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 12
+  }
+ },
+ {
+  "id": "21_ehrenstein_normal_1",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 12
+  }
+ },
+ {
+  "id": "21_ehrenstein_normal_2",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 12
+  }
+ },
+ {
+  "id": "21_ehrenstein_normal_3",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 20
+  }
+ },
+ {
+  "id": "21_ehrenstein_reverse_0",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 20
+  }
+ },
+ {
+  "id": "21_ehrenstein_reverse_1",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 20
+  }
+ },
+ {
+  "id": "21_ehrenstein_reverse_2",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 16
+  }
+ },
+ {
+  "id": "21_ehrenstein_reverse_3",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "lines": 16
+  }
+ },
+ {
+  "id": "21_ehrenstein_none_0",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "lines": 20
+  }
+ },
+ {
+  "id": "21_ehrenstein_none_1",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "lines": 12
+  }
+ },
+ {
+  "id": "21_ehrenstein_none_2",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "lines": 12
+  }
+ },
+ {
+  "id": "21_ehrenstein_none_3",
+  "n": 21,
+  "illusion": "ehrenstein",
+  "category": "K",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Do you see a disc in the centre where the lines would meet?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "lines": 20
+  }
+ },
+ {
+  "id": "22_rotating_snakes_normal_0",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "clockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_normal_1",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "clockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_normal_2",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "clockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_normal_3",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "clockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_reverse_0",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "counterclockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_reverse_1",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "counterclockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_reverse_2",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "counterclockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_reverse_3",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": "counterclockwise",
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_none_0",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_none_1",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_none_2",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "22_rotating_snakes_none_3",
+  "n": 22,
+  "illusion": "rotating_snakes",
+  "category": "M",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the disc look like it is rotating? If so, which way?",
+  "options": [
+   "clockwise",
+   "counterclockwise",
+   "still"
+  ],
+  "correct": "still",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "23_pinna_brelstaff_normal_0",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 42,
+   "shear": 29.2
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_normal_1",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 38,
+   "shear": 29.6
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_normal_2",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 38,
+   "shear": 25.2
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_normal_3",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 42,
+   "shear": 25.7
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_reverse_0",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 38,
+   "shear": 26.3
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_reverse_1",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 38,
+   "shear": 29.2
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_reverse_2",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 42,
+   "shear": 29.7
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_reverse_3",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "n": 38,
+   "shear": 26.8
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_none_0",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "n": 40,
+   "shear": 27.0
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_none_1",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "n": 42,
+   "shear": 26.9
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_none_2",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "n": 38,
+   "shear": 29.3
+  }
+ },
+ {
+  "id": "23_pinna_brelstaff_none_3",
+  "n": 23,
+  "illusion": "pinna_brelstaff",
+  "category": "M",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "n": 38,
+   "shear": 29.6
+  }
+ },
+ {
+  "id": "24_ouchi_normal_0",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 158
+  }
+ },
+ {
+  "id": "24_ouchi_normal_1",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 174
+  }
+ },
+ {
+  "id": "24_ouchi_normal_2",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 173
+  }
+ },
+ {
+  "id": "24_ouchi_normal_3",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 171
+  }
+ },
+ {
+  "id": "24_ouchi_reverse_0",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 154
+  }
+ },
+ {
+  "id": "24_ouchi_reverse_1",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 168
+  }
+ },
+ {
+  "id": "24_ouchi_reverse_2",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 155
+  }
+ },
+ {
+  "id": "24_ouchi_reverse_3",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": "yes",
+  "params": {
+   "radius": 158
+  }
+ },
+ {
+  "id": "24_ouchi_none_0",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "radius": 151
+  }
+ },
+ {
+  "id": "24_ouchi_none_1",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "radius": 168
+  }
+ },
+ {
+  "id": "24_ouchi_none_2",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "radius": 157
+  }
+ },
+ {
+  "id": "24_ouchi_none_3",
+  "n": 24,
+  "illusion": "ouchi",
+  "category": "M",
+  "condition": "none",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Does the central disc look like it moves or floats separately from the background?",
+  "options": [
+   "yes",
+   "no"
+  ],
+  "correct": "no",
+  "illusion_answer": null,
+  "params": {
+   "radius": 170
+  }
+ },
+ {
+  "id": "25_shepard_tables_normal_0",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "normal",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_normal_1",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "normal",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_normal_2",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "normal",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_normal_3",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "normal",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "left",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_reverse_0",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "reverse",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_reverse_1",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "reverse",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_reverse_2",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "reverse",
+  "render": 2,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_reverse_3",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "reverse",
+  "render": 3,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": "right",
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_none_0",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "none",
+  "render": 0,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_none_1",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "none",
+  "render": 1,
+  "diff": 0.0,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "same",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_none_2",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "none",
+  "render": 2,
+  "diff": 0.1,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "left",
+  "illusion_answer": null,
+  "params": {}
+ },
+ {
+  "id": "25_shepard_tables_none_3",
+  "n": 25,
+  "illusion": "shepard_tables",
+  "category": "D",
+  "condition": "none",
+  "render": 3,
+  "diff": -0.1,
+  "question": "Which tabletop looks longer and narrower?",
+  "options": [
+   "left",
+   "right",
+   "same"
+  ],
+  "correct": "right",
+  "illusion_answer": null,
+  "params": {}
+ }
+]

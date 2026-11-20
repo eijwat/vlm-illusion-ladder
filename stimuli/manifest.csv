@@ -1,0 +1,301 @@
+id,n,illusion,category,condition,render,diff,question,options,correct,illusion_answer,params
+01_muller_lyer_normal_0,1,muller_lyer,G,normal,0,0.0,Which line looks longer?,top / bottom / same,same,top,"{""fin"": 76, ""angle"": 37}"
+01_muller_lyer_normal_1,1,muller_lyer,G,normal,1,0.0,Which line looks longer?,left / right / same,same,left,"{""fin"": 60, ""angle"": 33}"
+01_muller_lyer_normal_2,1,muller_lyer,G,normal,2,0.0,Which line looks longer?,top / bottom / same,same,top,"{""fin"": 63, ""angle"": 37}"
+01_muller_lyer_normal_3,1,muller_lyer,G,normal,3,0.0,Which line looks longer?,left / right / same,same,left,"{""fin"": 69, ""angle"": 34}"
+01_muller_lyer_reverse_0,1,muller_lyer,G,reverse,0,0.0,Which line looks longer?,top / bottom / same,same,bottom,"{""fin"": 70, ""angle"": 32}"
+01_muller_lyer_reverse_1,1,muller_lyer,G,reverse,1,0.0,Which line looks longer?,left / right / same,same,right,"{""fin"": 69, ""angle"": 38}"
+01_muller_lyer_reverse_2,1,muller_lyer,G,reverse,2,0.0,Which line looks longer?,top / bottom / same,same,bottom,"{""fin"": 74, ""angle"": 33}"
+01_muller_lyer_reverse_3,1,muller_lyer,G,reverse,3,0.0,Which line looks longer?,left / right / same,same,right,"{""fin"": 77, ""angle"": 35}"
+01_muller_lyer_none_0,1,muller_lyer,G,none,0,0.0,Which line looks longer?,top / bottom / same,same,,"{""fin"": 78, ""angle"": 37}"
+01_muller_lyer_none_1,1,muller_lyer,G,none,1,0.0,Which line looks longer?,left / right / same,same,,"{""fin"": 61, ""angle"": 31}"
+01_muller_lyer_none_2,1,muller_lyer,G,none,2,0.1,Which line looks longer?,top / bottom / same,top,,"{""fin"": 61, ""angle"": 37}"
+01_muller_lyer_none_3,1,muller_lyer,G,none,3,-0.1,Which line looks longer?,left / right / same,right,,"{""fin"": 79, ""angle"": 32}"
+02_ponzo_normal_0,2,ponzo,G,normal,0,0.0,Which of the two short bars looks longer?,top / bottom / same,same,top,{}
+02_ponzo_normal_1,2,ponzo,G,normal,1,0.0,Which of the two short bars looks longer?,left / right / same,same,left,{}
+02_ponzo_normal_2,2,ponzo,G,normal,2,0.0,Which of the two short bars looks longer?,top / bottom / same,same,top,{}
+02_ponzo_normal_3,2,ponzo,G,normal,3,0.0,Which of the two short bars looks longer?,left / right / same,same,left,{}
+02_ponzo_reverse_0,2,ponzo,G,reverse,0,0.0,Which of the two short bars looks longer?,top / bottom / same,same,bottom,{}
+02_ponzo_reverse_1,2,ponzo,G,reverse,1,0.0,Which of the two short bars looks longer?,left / right / same,same,right,{}
+02_ponzo_reverse_2,2,ponzo,G,reverse,2,0.0,Which of the two short bars looks longer?,top / bottom / same,same,bottom,{}
+02_ponzo_reverse_3,2,ponzo,G,reverse,3,0.0,Which of the two short bars looks longer?,left / right / same,same,right,{}
+02_ponzo_none_0,2,ponzo,G,none,0,0.0,Which of the two short bars looks longer?,top / bottom / same,same,,{}
+02_ponzo_none_1,2,ponzo,G,none,1,0.0,Which of the two short bars looks longer?,left / right / same,same,,{}
+02_ponzo_none_2,2,ponzo,G,none,2,0.1,Which of the two short bars looks longer?,top / bottom / same,top,,{}
+02_ponzo_none_3,2,ponzo,G,none,3,-0.1,Which of the two short bars looks longer?,left / right / same,right,,{}
+03_ebbinghaus_normal_0,3,ebbinghaus,G,normal,0,0.0,Which central circle looks larger?,left / right / same,same,left,{}
+03_ebbinghaus_normal_1,3,ebbinghaus,G,normal,1,0.0,Which central circle looks larger?,top / bottom / same,same,top,{}
+03_ebbinghaus_normal_2,3,ebbinghaus,G,normal,2,0.0,Which central circle looks larger?,left / right / same,same,left,{}
+03_ebbinghaus_normal_3,3,ebbinghaus,G,normal,3,0.0,Which central circle looks larger?,top / bottom / same,same,top,{}
+03_ebbinghaus_reverse_0,3,ebbinghaus,G,reverse,0,0.0,Which central circle looks larger?,left / right / same,same,right,{}
+03_ebbinghaus_reverse_1,3,ebbinghaus,G,reverse,1,0.0,Which central circle looks larger?,top / bottom / same,same,bottom,{}
+03_ebbinghaus_reverse_2,3,ebbinghaus,G,reverse,2,0.0,Which central circle looks larger?,left / right / same,same,right,{}
+03_ebbinghaus_reverse_3,3,ebbinghaus,G,reverse,3,0.0,Which central circle looks larger?,top / bottom / same,same,bottom,{}
+03_ebbinghaus_none_0,3,ebbinghaus,G,none,0,0.0,Which central circle looks larger?,left / right / same,same,,{}
+03_ebbinghaus_none_1,3,ebbinghaus,G,none,1,0.0,Which central circle looks larger?,top / bottom / same,same,,{}
+03_ebbinghaus_none_2,3,ebbinghaus,G,none,2,0.1,Which central circle looks larger?,left / right / same,left,,{}
+03_ebbinghaus_none_3,3,ebbinghaus,G,none,3,-0.1,Which central circle looks larger?,top / bottom / same,bottom,,{}
+04_delboeuf_normal_0,4,delboeuf,G,normal,0,0.0,Which filled circle looks larger?,left / right / same,same,left,{}
+04_delboeuf_normal_1,4,delboeuf,G,normal,1,0.0,Which filled circle looks larger?,top / bottom / same,same,top,{}
+04_delboeuf_normal_2,4,delboeuf,G,normal,2,0.0,Which filled circle looks larger?,left / right / same,same,left,{}
+04_delboeuf_normal_3,4,delboeuf,G,normal,3,0.0,Which filled circle looks larger?,top / bottom / same,same,top,{}
+04_delboeuf_reverse_0,4,delboeuf,G,reverse,0,0.0,Which filled circle looks larger?,left / right / same,same,right,{}
+04_delboeuf_reverse_1,4,delboeuf,G,reverse,1,0.0,Which filled circle looks larger?,top / bottom / same,same,bottom,{}
+04_delboeuf_reverse_2,4,delboeuf,G,reverse,2,0.0,Which filled circle looks larger?,left / right / same,same,right,{}
+04_delboeuf_reverse_3,4,delboeuf,G,reverse,3,0.0,Which filled circle looks larger?,top / bottom / same,same,bottom,{}
+04_delboeuf_none_0,4,delboeuf,G,none,0,0.0,Which filled circle looks larger?,left / right / same,same,,{}
+04_delboeuf_none_1,4,delboeuf,G,none,1,0.0,Which filled circle looks larger?,top / bottom / same,same,,{}
+04_delboeuf_none_2,4,delboeuf,G,none,2,0.1,Which filled circle looks larger?,left / right / same,left,,{}
+04_delboeuf_none_3,4,delboeuf,G,none,3,-0.1,Which filled circle looks larger?,top / bottom / same,bottom,,{}
+05_vertical_horizontal_normal_0,5,vertical_horizontal,G,normal,0,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,vertical,{}
+05_vertical_horizontal_normal_1,5,vertical_horizontal,G,normal,1,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,vertical,{}
+05_vertical_horizontal_normal_2,5,vertical_horizontal,G,normal,2,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,vertical,{}
+05_vertical_horizontal_normal_3,5,vertical_horizontal,G,normal,3,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,vertical,{}
+05_vertical_horizontal_reverse_0,5,vertical_horizontal,G,reverse,0,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,horizontal,{}
+05_vertical_horizontal_reverse_1,5,vertical_horizontal,G,reverse,1,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,horizontal,{}
+05_vertical_horizontal_reverse_2,5,vertical_horizontal,G,reverse,2,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,horizontal,{}
+05_vertical_horizontal_reverse_3,5,vertical_horizontal,G,reverse,3,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,horizontal,{}
+05_vertical_horizontal_none_0,5,vertical_horizontal,G,none,0,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,,{}
+05_vertical_horizontal_none_1,5,vertical_horizontal,G,none,1,0.0,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,same,,{}
+05_vertical_horizontal_none_2,5,vertical_horizontal,G,none,2,0.1,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,vertical,,{}
+05_vertical_horizontal_none_3,5,vertical_horizontal,G,none,3,-0.1,"Which line looks longer, the vertical or the horizontal one?",vertical / horizontal / same,horizontal,,{}
+06_jastrow_normal_0,6,jastrow,G,normal,0,0.0,Which of the two shapes looks larger?,top / bottom / same,same,bottom,{}
+06_jastrow_normal_1,6,jastrow,G,normal,1,0.0,Which of the two shapes looks larger?,left / right / same,same,right,{}
+06_jastrow_normal_2,6,jastrow,G,normal,2,0.0,Which of the two shapes looks larger?,top / bottom / same,same,bottom,{}
+06_jastrow_normal_3,6,jastrow,G,normal,3,0.0,Which of the two shapes looks larger?,left / right / same,same,right,{}
+06_jastrow_reverse_0,6,jastrow,G,reverse,0,0.0,Which of the two shapes looks larger?,top / bottom / same,same,top,{}
+06_jastrow_reverse_1,6,jastrow,G,reverse,1,0.0,Which of the two shapes looks larger?,left / right / same,same,left,{}
+06_jastrow_reverse_2,6,jastrow,G,reverse,2,0.0,Which of the two shapes looks larger?,top / bottom / same,same,top,{}
+06_jastrow_reverse_3,6,jastrow,G,reverse,3,0.0,Which of the two shapes looks larger?,left / right / same,same,left,{}
+06_jastrow_none_0,6,jastrow,G,none,0,0.0,Which of the two shapes looks larger?,top / bottom / same,same,,{}
+06_jastrow_none_1,6,jastrow,G,none,1,0.0,Which of the two shapes looks larger?,left / right / same,same,,{}
+06_jastrow_none_2,6,jastrow,G,none,2,0.1,Which of the two shapes looks larger?,top / bottom / same,top,,{}
+06_jastrow_none_3,6,jastrow,G,none,3,-0.1,Which of the two shapes looks larger?,left / right / same,right,,{}
+07_poggendorff_normal_0,7,poggendorff,G,normal,0,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,higher,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 172}"
+07_poggendorff_normal_1,7,poggendorff,G,normal,1,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,higher,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 185}"
+07_poggendorff_normal_2,7,poggendorff,G,normal,2,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,higher,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 179}"
+07_poggendorff_normal_3,7,poggendorff,G,normal,3,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,higher,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 170}"
+07_poggendorff_reverse_0,7,poggendorff,G,reverse,0,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,lower,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 185}"
+07_poggendorff_reverse_1,7,poggendorff,G,reverse,1,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,lower,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 183}"
+07_poggendorff_reverse_2,7,poggendorff,G,reverse,2,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,lower,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 180}"
+07_poggendorff_reverse_3,7,poggendorff,G,reverse,3,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,lower,"{""shift_px"": 0, ""theta"": 45.0, ""bar"": 181}"
+07_poggendorff_none_0,7,poggendorff,G,none,0,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,,"{""shift_px"": 0, ""theta"": 0.0, ""bar"": 177}"
+07_poggendorff_none_1,7,poggendorff,G,none,1,0.0,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,aligned,,"{""shift_px"": 0, ""theta"": 0.0, ""bar"": 197}"
+07_poggendorff_none_2,7,poggendorff,G,none,2,0.1,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,higher,,"{""shift_px"": -28, ""theta"": 0.0, ""bar"": 191}"
+07_poggendorff_none_3,7,poggendorff,G,none,3,-0.1,"Compared with where the left part of the slanted line would continue, the right part looks higher, lower, or aligned?",higher / lower / aligned,lower,,"{""shift_px"": 28, ""theta"": 0.0, ""bar"": 194}"
+08_zollner_normal_0,8,zollner,G,normal,0,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_normal_1,8,zollner,G,normal,1,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_normal_2,8,zollner,G,normal,2,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_normal_3,8,zollner,G,normal,3,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_reverse_0,8,zollner,G,reverse,0,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_reverse_1,8,zollner,G,reverse,1,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_reverse_2,8,zollner,G,reverse,2,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_reverse_3,8,zollner,G,reverse,3,0.0,Do the long lines look parallel to each other?,yes / no,yes,no,{}
+08_zollner_none_0,8,zollner,G,none,0,0.0,Do the long lines look parallel to each other?,yes / no,yes,,{}
+08_zollner_none_1,8,zollner,G,none,1,0.0,Do the long lines look parallel to each other?,yes / no,yes,,{}
+08_zollner_none_2,8,zollner,G,none,2,0.0,Do the long lines look parallel to each other?,yes / no,yes,,{}
+08_zollner_none_3,8,zollner,G,none,3,0.0,Do the long lines look parallel to each other?,yes / no,yes,,{}
+09_cafe_wall_normal_0,9,cafe_wall,G,normal,0,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 79}"
+09_cafe_wall_normal_1,9,cafe_wall,G,normal,1,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 70}"
+09_cafe_wall_normal_2,9,cafe_wall,G,normal,2,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 81}"
+09_cafe_wall_normal_3,9,cafe_wall,G,normal,3,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 82}"
+09_cafe_wall_reverse_0,9,cafe_wall,G,reverse,0,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 75}"
+09_cafe_wall_reverse_1,9,cafe_wall,G,reverse,1,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 84}"
+09_cafe_wall_reverse_2,9,cafe_wall,G,reverse,2,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 73}"
+09_cafe_wall_reverse_3,9,cafe_wall,G,reverse,3,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,no,"{""tile"": 70}"
+09_cafe_wall_none_0,9,cafe_wall,G,none,0,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,,"{""tile"": 72}"
+09_cafe_wall_none_1,9,cafe_wall,G,none,1,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,,"{""tile"": 80}"
+09_cafe_wall_none_2,9,cafe_wall,G,none,2,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,,"{""tile"": 71}"
+09_cafe_wall_none_3,9,cafe_wall,G,none,3,0.0,Do the horizontal grey lines look parallel to each other?,yes / no,yes,,"{""tile"": 82}"
+10_hering_normal_0,10,hering,G,normal,0,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_normal_1,10,hering,G,normal,1,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_normal_2,10,hering,G,normal,2,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_normal_3,10,hering,G,normal,3,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_reverse_0,10,hering,G,reverse,0,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_reverse_1,10,hering,G,reverse,1,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_reverse_2,10,hering,G,reverse,2,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_reverse_3,10,hering,G,reverse,3,0.0,Do the two thick lines look straight?,yes / no,yes,no,{}
+10_hering_none_0,10,hering,G,none,0,0.0,Do the two thick lines look straight?,yes / no,yes,,{}
+10_hering_none_1,10,hering,G,none,1,0.0,Do the two thick lines look straight?,yes / no,yes,,{}
+10_hering_none_2,10,hering,G,none,2,0.0,Do the two thick lines look straight?,yes / no,yes,,{}
+10_hering_none_3,10,hering,G,none,3,0.0,Do the two thick lines look straight?,yes / no,yes,,{}
+11_fraser_spiral_normal_0,11,fraser_spiral,G,normal,0,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 40, ""alpha"": 17.0}"
+11_fraser_spiral_normal_1,11,fraser_spiral,G,normal,1,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 40, ""alpha"": 19.8}"
+11_fraser_spiral_normal_2,11,fraser_spiral,G,normal,2,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 36, ""alpha"": 19.3}"
+11_fraser_spiral_normal_3,11,fraser_spiral,G,normal,3,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 40, ""alpha"": 19.3}"
+11_fraser_spiral_reverse_0,11,fraser_spiral,G,reverse,0,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 36, ""alpha"": -16.4}"
+11_fraser_spiral_reverse_1,11,fraser_spiral,G,reverse,1,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 36, ""alpha"": -17.0}"
+11_fraser_spiral_reverse_2,11,fraser_spiral,G,reverse,2,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 40, ""alpha"": -19.5}"
+11_fraser_spiral_reverse_3,11,fraser_spiral,G,reverse,3,0.0,Does the pattern look like a spiral?,yes / no,no,yes,"{""cells"": 36, ""alpha"": -19.9}"
+11_fraser_spiral_none_0,11,fraser_spiral,G,none,0,0.0,Does the pattern look like a spiral?,yes / no,no,,"{""cells"": 36, ""alpha"": 0.0}"
+11_fraser_spiral_none_1,11,fraser_spiral,G,none,1,0.0,Does the pattern look like a spiral?,yes / no,no,,"{""cells"": 40, ""alpha"": 0.0}"
+11_fraser_spiral_none_2,11,fraser_spiral,G,none,2,0.0,Does the pattern look like a spiral?,yes / no,no,,"{""cells"": 36, ""alpha"": 0.0}"
+11_fraser_spiral_none_3,11,fraser_spiral,G,none,3,0.0,Does the pattern look like a spiral?,yes / no,no,,"{""cells"": 40, ""alpha"": 0.0}"
+12_simultaneous_contrast_normal_0,12,simultaneous_contrast,L,normal,0,0.0,Which small grey square looks lighter?,left / right / same,same,left,"{""grey"": 137, ""dark"": 22, ""light"": 232}"
+12_simultaneous_contrast_normal_1,12,simultaneous_contrast,L,normal,1,0.0,Which small grey square looks lighter?,top / bottom / same,same,top,"{""grey"": 138, ""dark"": 17, ""light"": 210}"
+12_simultaneous_contrast_normal_2,12,simultaneous_contrast,L,normal,2,0.0,Which small grey square looks lighter?,left / right / same,same,left,"{""grey"": 127, ""dark"": 18, ""light"": 223}"
+12_simultaneous_contrast_normal_3,12,simultaneous_contrast,L,normal,3,0.0,Which small grey square looks lighter?,top / bottom / same,same,top,"{""grey"": 122, ""dark"": 41, ""light"": 223}"
+12_simultaneous_contrast_reverse_0,12,simultaneous_contrast,L,reverse,0,0.0,Which small grey square looks lighter?,left / right / same,same,right,"{""grey"": 133, ""dark"": 21, ""light"": 228}"
+12_simultaneous_contrast_reverse_1,12,simultaneous_contrast,L,reverse,1,0.0,Which small grey square looks lighter?,top / bottom / same,same,bottom,"{""grey"": 135, ""dark"": 27, ""light"": 231}"
+12_simultaneous_contrast_reverse_2,12,simultaneous_contrast,L,reverse,2,0.0,Which small grey square looks lighter?,left / right / same,same,right,"{""grey"": 134, ""dark"": 19, ""light"": 228}"
+12_simultaneous_contrast_reverse_3,12,simultaneous_contrast,L,reverse,3,0.0,Which small grey square looks lighter?,top / bottom / same,same,bottom,"{""grey"": 134, ""dark"": 19, ""light"": 235}"
+12_simultaneous_contrast_none_0,12,simultaneous_contrast,L,none,0,0.0,Which small grey square looks lighter?,left / right / same,same,,"{""grey"": 124, ""dark"": 32, ""light"": 228}"
+12_simultaneous_contrast_none_1,12,simultaneous_contrast,L,none,1,0.0,Which small grey square looks lighter?,top / bottom / same,same,,"{""grey"": 123, ""dark"": 42, ""light"": 227}"
+12_simultaneous_contrast_none_2,12,simultaneous_contrast,L,none,2,0.1,Which small grey square looks lighter?,left / right / same,left,,"{""grey"": 132, ""dark"": 42, ""light"": 226}"
+12_simultaneous_contrast_none_3,12,simultaneous_contrast,L,none,3,-0.1,Which small grey square looks lighter?,top / bottom / same,bottom,,"{""grey"": 119, ""dark"": 17, ""light"": 230}"
+13_checker_shadow_normal_0,13,checker_shadow,L,normal,0,0.0,"Which square looks lighter, A or B?",A / B / same,same,B,{}
+13_checker_shadow_normal_1,13,checker_shadow,L,normal,1,0.0,"Which square looks lighter, A or B?",A / B / same,same,B,{}
+13_checker_shadow_normal_2,13,checker_shadow,L,normal,2,0.0,"Which square looks lighter, A or B?",A / B / same,same,B,{}
+13_checker_shadow_normal_3,13,checker_shadow,L,normal,3,0.0,"Which square looks lighter, A or B?",A / B / same,same,B,{}
+13_checker_shadow_reverse_0,13,checker_shadow,L,reverse,0,0.0,"Which square looks lighter, A or B?",A / B / same,same,A,{}
+13_checker_shadow_reverse_1,13,checker_shadow,L,reverse,1,0.0,"Which square looks lighter, A or B?",A / B / same,same,A,{}
+13_checker_shadow_reverse_2,13,checker_shadow,L,reverse,2,0.0,"Which square looks lighter, A or B?",A / B / same,same,A,{}
+13_checker_shadow_reverse_3,13,checker_shadow,L,reverse,3,0.0,"Which square looks lighter, A or B?",A / B / same,same,A,{}
+13_checker_shadow_none_0,13,checker_shadow,L,none,0,0.0,"Which square looks lighter, A or B?",A / B / same,same,,{}
+13_checker_shadow_none_1,13,checker_shadow,L,none,1,0.0,"Which square looks lighter, A or B?",A / B / same,same,,{}
+13_checker_shadow_none_2,13,checker_shadow,L,none,2,0.1,"Which square looks lighter, A or B?",A / B / same,A,,{}
+13_checker_shadow_none_3,13,checker_shadow,L,none,3,-0.1,"Which square looks lighter, A or B?",A / B / same,B,,{}
+14_white_effect_normal_0,14,white_effect,L,normal,0,0.0,Which group of grey bars looks lighter?,left / right / same,same,left,"{""grey"": 136}"
+14_white_effect_normal_1,14,white_effect,L,normal,1,0.0,Which group of grey bars looks lighter?,top / bottom / same,same,top,"{""grey"": 136}"
+14_white_effect_normal_2,14,white_effect,L,normal,2,0.0,Which group of grey bars looks lighter?,left / right / same,same,left,"{""grey"": 134}"
+14_white_effect_normal_3,14,white_effect,L,normal,3,0.0,Which group of grey bars looks lighter?,top / bottom / same,same,top,"{""grey"": 128}"
+14_white_effect_reverse_0,14,white_effect,L,reverse,0,0.0,Which group of grey bars looks lighter?,left / right / same,same,right,"{""grey"": 127}"
+14_white_effect_reverse_1,14,white_effect,L,reverse,1,0.0,Which group of grey bars looks lighter?,top / bottom / same,same,bottom,"{""grey"": 118}"
+14_white_effect_reverse_2,14,white_effect,L,reverse,2,0.0,Which group of grey bars looks lighter?,left / right / same,same,right,"{""grey"": 133}"
+14_white_effect_reverse_3,14,white_effect,L,reverse,3,0.0,Which group of grey bars looks lighter?,top / bottom / same,same,bottom,"{""grey"": 128}"
+14_white_effect_none_0,14,white_effect,L,none,0,0.0,Which group of grey bars looks lighter?,left / right / same,same,,"{""grey"": 130}"
+14_white_effect_none_1,14,white_effect,L,none,1,0.0,Which group of grey bars looks lighter?,top / bottom / same,same,,"{""grey"": 135}"
+14_white_effect_none_2,14,white_effect,L,none,2,0.1,Which group of grey bars looks lighter?,left / right / same,left,,"{""grey"": 130}"
+14_white_effect_none_3,14,white_effect,L,none,3,-0.1,Which group of grey bars looks lighter?,top / bottom / same,bottom,,"{""grey"": 118}"
+15_hermann_grid_normal_0,15,hermann_grid,L,normal,0,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 88, ""street"": 20}"
+15_hermann_grid_normal_1,15,hermann_grid,L,normal,1,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 88, ""street"": 24}"
+15_hermann_grid_normal_2,15,hermann_grid,L,normal,2,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 88, ""street"": 21}"
+15_hermann_grid_normal_3,15,hermann_grid,L,normal,3,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 93, ""street"": 22}"
+15_hermann_grid_reverse_0,15,hermann_grid,L,reverse,0,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 93, ""street"": 23}"
+15_hermann_grid_reverse_1,15,hermann_grid,L,reverse,1,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 85, ""street"": 24}"
+15_hermann_grid_reverse_2,15,hermann_grid,L,reverse,2,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 87, ""street"": 19}"
+15_hermann_grid_reverse_3,15,hermann_grid,L,reverse,3,0.0,Do you see faint spots where the lines cross?,yes / no,no,yes,"{""square"": 94, ""street"": 21}"
+15_hermann_grid_none_0,15,hermann_grid,L,none,0,0.0,Do you see faint spots where the lines cross?,yes / no,no,,"{""square"": 91, ""street"": 20}"
+15_hermann_grid_none_1,15,hermann_grid,L,none,1,0.0,Do you see faint spots where the lines cross?,yes / no,no,,"{""square"": 90, ""street"": 19}"
+15_hermann_grid_none_2,15,hermann_grid,L,none,2,0.0,Do you see faint spots where the lines cross?,yes / no,no,,"{""square"": 86, ""street"": 20}"
+15_hermann_grid_none_3,15,hermann_grid,L,none,3,0.0,Do you see faint spots where the lines cross?,yes / no,no,,"{""square"": 92, ""street"": 20}"
+16_scintillating_grid_normal_0,16,scintillating_grid,L,normal,0,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_normal_1,16,scintillating_grid,L,normal,1,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_normal_2,16,scintillating_grid,L,normal,2,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_normal_3,16,scintillating_grid,L,normal,3,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_reverse_0,16,scintillating_grid,L,reverse,0,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_reverse_1,16,scintillating_grid,L,reverse,1,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_reverse_2,16,scintillating_grid,L,reverse,2,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_reverse_3,16,scintillating_grid,L,reverse,3,0.0,Do you see dark dots inside the white discs?,yes / no,no,yes,{}
+16_scintillating_grid_none_0,16,scintillating_grid,L,none,0,0.0,Do you see dark dots inside the white discs?,yes / no,no,,{}
+16_scintillating_grid_none_1,16,scintillating_grid,L,none,1,0.0,Do you see dark dots inside the white discs?,yes / no,no,,{}
+16_scintillating_grid_none_2,16,scintillating_grid,L,none,2,0.0,Do you see dark dots inside the white discs?,yes / no,no,,{}
+16_scintillating_grid_none_3,16,scintillating_grid,L,none,3,0.0,Do you see dark dots inside the white discs?,yes / no,no,,{}
+17_munker_white_normal_0,17,munker_white,C,normal,0,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_normal_1,17,munker_white,C,normal,1,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_normal_2,17,munker_white,C,normal,2,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_normal_3,17,munker_white,C,normal,3,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_reverse_0,17,munker_white,C,reverse,0,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_reverse_1,17,munker_white,C,reverse,1,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_reverse_2,17,munker_white,C,reverse,2,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_reverse_3,17,munker_white,C,reverse,3,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,no,{}
+17_munker_white_none_0,17,munker_white,C,none,0,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,,{}
+17_munker_white_none_1,17,munker_white,C,none,1,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,,{}
+17_munker_white_none_2,17,munker_white,C,none,2,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,,{}
+17_munker_white_none_3,17,munker_white,C,none,3,0.0,Do the orange stripes on the two sides look the same colour?,yes / no,yes,,{}
+18_color_contrast_normal_0,18,color_contrast,C,normal,0,0.0,Which small grey square looks more reddish?,left / right / same,same,left,{}
+18_color_contrast_normal_1,18,color_contrast,C,normal,1,0.0,Which small grey square looks more reddish?,top / bottom / same,same,top,{}
+18_color_contrast_normal_2,18,color_contrast,C,normal,2,0.0,Which small grey square looks more reddish?,left / right / same,same,left,{}
+18_color_contrast_normal_3,18,color_contrast,C,normal,3,0.0,Which small grey square looks more reddish?,top / bottom / same,same,top,{}
+18_color_contrast_reverse_0,18,color_contrast,C,reverse,0,0.0,Which small grey square looks more reddish?,left / right / same,same,right,{}
+18_color_contrast_reverse_1,18,color_contrast,C,reverse,1,0.0,Which small grey square looks more reddish?,top / bottom / same,same,bottom,{}
+18_color_contrast_reverse_2,18,color_contrast,C,reverse,2,0.0,Which small grey square looks more reddish?,left / right / same,same,right,{}
+18_color_contrast_reverse_3,18,color_contrast,C,reverse,3,0.0,Which small grey square looks more reddish?,top / bottom / same,same,bottom,{}
+18_color_contrast_none_0,18,color_contrast,C,none,0,0.0,Which small grey square looks more reddish?,left / right / same,same,,{}
+18_color_contrast_none_1,18,color_contrast,C,none,1,0.0,Which small grey square looks more reddish?,top / bottom / same,same,,{}
+18_color_contrast_none_2,18,color_contrast,C,none,2,0.0,Which small grey square looks more reddish?,left / right / same,same,,{}
+18_color_contrast_none_3,18,color_contrast,C,none,3,0.0,Which small grey square looks more reddish?,top / bottom / same,same,,{}
+19_neon_spreading_normal_0,19,neon_spreading,C,normal,0,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_normal_1,19,neon_spreading,C,normal,1,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_normal_2,19,neon_spreading,C,normal,2,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_normal_3,19,neon_spreading,C,normal,3,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_reverse_0,19,neon_spreading,C,reverse,0,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_reverse_1,19,neon_spreading,C,reverse,1,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_reverse_2,19,neon_spreading,C,reverse,2,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_reverse_3,19,neon_spreading,C,reverse,3,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,yes,{}
+19_neon_spreading_none_0,19,neon_spreading,C,none,0,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,,{}
+19_neon_spreading_none_1,19,neon_spreading,C,none,1,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,,{}
+19_neon_spreading_none_2,19,neon_spreading,C,none,2,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,,{}
+19_neon_spreading_none_3,19,neon_spreading,C,none,3,0.0,"Do you see a faint coloured disc filling the centre, between the lines?",yes / no,no,,{}
+20_kanizsa_normal_0,20,kanizsa,K,normal,0,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_normal_1,20,kanizsa,K,normal,1,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_normal_2,20,kanizsa,K,normal,2,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_normal_3,20,kanizsa,K,normal,3,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_reverse_0,20,kanizsa,K,reverse,0,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_reverse_1,20,kanizsa,K,reverse,1,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_reverse_2,20,kanizsa,K,reverse,2,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_reverse_3,20,kanizsa,K,reverse,3,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,yes,{}
+20_kanizsa_none_0,20,kanizsa,K,none,0,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,,{}
+20_kanizsa_none_1,20,kanizsa,K,none,1,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,,{}
+20_kanizsa_none_2,20,kanizsa,K,none,2,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,,{}
+20_kanizsa_none_3,20,kanizsa,K,none,3,0.0,Do you see a white triangle with clear edges lying on top of the black shapes?,yes / no,no,,{}
+21_ehrenstein_normal_0,21,ehrenstein,K,normal,0,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 12}"
+21_ehrenstein_normal_1,21,ehrenstein,K,normal,1,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 12}"
+21_ehrenstein_normal_2,21,ehrenstein,K,normal,2,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 12}"
+21_ehrenstein_normal_3,21,ehrenstein,K,normal,3,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 20}"
+21_ehrenstein_reverse_0,21,ehrenstein,K,reverse,0,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 20}"
+21_ehrenstein_reverse_1,21,ehrenstein,K,reverse,1,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 20}"
+21_ehrenstein_reverse_2,21,ehrenstein,K,reverse,2,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 16}"
+21_ehrenstein_reverse_3,21,ehrenstein,K,reverse,3,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,yes,"{""lines"": 16}"
+21_ehrenstein_none_0,21,ehrenstein,K,none,0,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,,"{""lines"": 20}"
+21_ehrenstein_none_1,21,ehrenstein,K,none,1,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,,"{""lines"": 12}"
+21_ehrenstein_none_2,21,ehrenstein,K,none,2,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,,"{""lines"": 12}"
+21_ehrenstein_none_3,21,ehrenstein,K,none,3,0.0,Do you see a disc in the centre where the lines would meet?,yes / no,no,,"{""lines"": 20}"
+22_rotating_snakes_normal_0,22,rotating_snakes,M,normal,0,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,clockwise,{}
+22_rotating_snakes_normal_1,22,rotating_snakes,M,normal,1,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,clockwise,{}
+22_rotating_snakes_normal_2,22,rotating_snakes,M,normal,2,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,clockwise,{}
+22_rotating_snakes_normal_3,22,rotating_snakes,M,normal,3,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,clockwise,{}
+22_rotating_snakes_reverse_0,22,rotating_snakes,M,reverse,0,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,counterclockwise,{}
+22_rotating_snakes_reverse_1,22,rotating_snakes,M,reverse,1,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,counterclockwise,{}
+22_rotating_snakes_reverse_2,22,rotating_snakes,M,reverse,2,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,counterclockwise,{}
+22_rotating_snakes_reverse_3,22,rotating_snakes,M,reverse,3,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,counterclockwise,{}
+22_rotating_snakes_none_0,22,rotating_snakes,M,none,0,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,,{}
+22_rotating_snakes_none_1,22,rotating_snakes,M,none,1,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,,{}
+22_rotating_snakes_none_2,22,rotating_snakes,M,none,2,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,,{}
+22_rotating_snakes_none_3,22,rotating_snakes,M,none,3,0.0,"Does the disc look like it is rotating? If so, which way?",clockwise / counterclockwise / still,still,,{}
+23_pinna_brelstaff_normal_0,23,pinna_brelstaff,M,normal,0,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 42, ""shear"": 29.2}"
+23_pinna_brelstaff_normal_1,23,pinna_brelstaff,M,normal,1,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 38, ""shear"": 29.6}"
+23_pinna_brelstaff_normal_2,23,pinna_brelstaff,M,normal,2,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 38, ""shear"": 25.2}"
+23_pinna_brelstaff_normal_3,23,pinna_brelstaff,M,normal,3,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 42, ""shear"": 25.7}"
+23_pinna_brelstaff_reverse_0,23,pinna_brelstaff,M,reverse,0,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 38, ""shear"": 26.3}"
+23_pinna_brelstaff_reverse_1,23,pinna_brelstaff,M,reverse,1,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 38, ""shear"": 29.2}"
+23_pinna_brelstaff_reverse_2,23,pinna_brelstaff,M,reverse,2,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 42, ""shear"": 29.7}"
+23_pinna_brelstaff_reverse_3,23,pinna_brelstaff,M,reverse,3,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,yes,"{""n"": 38, ""shear"": 26.8}"
+23_pinna_brelstaff_none_0,23,pinna_brelstaff,M,none,0,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,,"{""n"": 40, ""shear"": 27.0}"
+23_pinna_brelstaff_none_1,23,pinna_brelstaff,M,none,1,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,,"{""n"": 42, ""shear"": 26.9}"
+23_pinna_brelstaff_none_2,23,pinna_brelstaff,M,none,2,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,,"{""n"": 38, ""shear"": 29.3}"
+23_pinna_brelstaff_none_3,23,pinna_brelstaff,M,none,3,0.0,"While looking at the central cross and moving your head towards and away from the picture, do the rings look like they rotate?",yes / no,no,,"{""n"": 38, ""shear"": 29.6}"
+24_ouchi_normal_0,24,ouchi,M,normal,0,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 158}"
+24_ouchi_normal_1,24,ouchi,M,normal,1,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 174}"
+24_ouchi_normal_2,24,ouchi,M,normal,2,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 173}"
+24_ouchi_normal_3,24,ouchi,M,normal,3,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 171}"
+24_ouchi_reverse_0,24,ouchi,M,reverse,0,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 154}"
+24_ouchi_reverse_1,24,ouchi,M,reverse,1,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 168}"
+24_ouchi_reverse_2,24,ouchi,M,reverse,2,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 155}"
+24_ouchi_reverse_3,24,ouchi,M,reverse,3,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,yes,"{""radius"": 158}"
+24_ouchi_none_0,24,ouchi,M,none,0,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,,"{""radius"": 151}"
+24_ouchi_none_1,24,ouchi,M,none,1,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,,"{""radius"": 168}"
+24_ouchi_none_2,24,ouchi,M,none,2,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,,"{""radius"": 157}"
+24_ouchi_none_3,24,ouchi,M,none,3,0.0,Does the central disc look like it moves or floats separately from the background?,yes / no,no,,"{""radius"": 170}"
+25_shepard_tables_normal_0,25,shepard_tables,D,normal,0,0.0,Which tabletop looks longer and narrower?,left / right / same,same,left,{}
+25_shepard_tables_normal_1,25,shepard_tables,D,normal,1,0.0,Which tabletop looks longer and narrower?,left / right / same,same,left,{}
+25_shepard_tables_normal_2,25,shepard_tables,D,normal,2,0.0,Which tabletop looks longer and narrower?,left / right / same,same,left,{}
+25_shepard_tables_normal_3,25,shepard_tables,D,normal,3,0.0,Which tabletop looks longer and narrower?,left / right / same,same,left,{}
+25_shepard_tables_reverse_0,25,shepard_tables,D,reverse,0,0.0,Which tabletop looks longer and narrower?,left / right / same,same,right,{}
+25_shepard_tables_reverse_1,25,shepard_tables,D,reverse,1,0.0,Which tabletop looks longer and narrower?,left / right / same,same,right,{}
+25_shepard_tables_reverse_2,25,shepard_tables,D,reverse,2,0.0,Which tabletop looks longer and narrower?,left / right / same,same,right,{}
+25_shepard_tables_reverse_3,25,shepard_tables,D,reverse,3,0.0,Which tabletop looks longer and narrower?,left / right / same,same,right,{}
+25_shepard_tables_none_0,25,shepard_tables,D,none,0,0.0,Which tabletop looks longer and narrower?,left / right / same,same,,{}
+25_shepard_tables_none_1,25,shepard_tables,D,none,1,0.0,Which tabletop looks longer and narrower?,left / right / same,same,,{}
+25_shepard_tables_none_2,25,shepard_tables,D,none,2,0.1,Which tabletop looks longer and narrower?,left / right / same,left,,{}
+25_shepard_tables_none_3,25,shepard_tables,D,none,3,-0.1,Which tabletop looks longer and narrower?,left / right / same,right,,{}
