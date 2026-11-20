@@ -11,7 +11,8 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 
-\title{Told the truth, still fooled? Classical visual illusions in vision-language models under an instruction ladder}
+\title{Vision-language models answer in the direction of classical visual illusions even after being told the truth:
+an instruction ladder with reversed and control stimuli}
 \author{Eiji Watanabe\\
 \small Laboratory of Neurophysiology, National Institute for Basic Biology, Okazaki, Japan\\
 \small \texttt{eijwat@gmail.com} \quad ORCID 0000-0001-9089-8122}
@@ -36,7 +37,8 @@ truth (95\% CI 74--96\%), with 16 of the 25 illusions showing a stimulus-driven 
 Fraser spiral, Kanizsa triangle, Pinna--Brelstaff rings, Ouchi pattern and, for Haiku, the rotating snakes---the
 models gave the illusion answer to the control images as well, i.e.\ they recognised the figure rather than the
 effect. A false fact was followed on control images but overridden on illusion images. The stimuli, prompts, all
-responses and the code are released for testing further models.
+responses and the code are released for testing further models; the Python code that draws the stimuli is
+parametric and can generate new illusion images for other studies with models or human observers.
 \end{abstract}
 
 \section{Introduction}
@@ -291,10 +293,18 @@ the variation between model versions.
 
 \section*{Data and code availability}
 Stimuli, prompts, all 478,880 responses (main run, pilot and pre-run check), analysis code and results are available
-at \url{https://github.com/eijwat/vlm-illusion-ladder} and archived at Zenodo (DOI to be added). Code: MIT licence;
+at \url{https://github.com/eijwat/vlm-illusion-ladder} and archived at Zenodo (DOI to be added). The stimulus code
+(\texttt{ladder/stimuli.py}, Python and Pillow only) draws each of the 25 illusions, together with its reversed and control versions,
+from a few drawing parameters (size, line width, colours, orientation, and illusion-specific values such as the fin
+length and angle of the Müller-Lyer figure) and a fixed random seed. Changing these values or the seed gives new
+renders, so the code can be reused to make new stimulus sets, for example for psychophysics with human observers or for
+training and testing other models. Code: MIT licence;
 stimuli, prompts, data and results: CC BY 4.0.
 
 \section*{Acknowledgements}
+This work was supported by the Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan, through
+SPReAD (Supporting Pioneering Research through AI for 1,000 Discovery challenges),.
+
 The stimulus and analysis code, the analysis and drafts of this manuscript were prepared with the help of Claude
 Code (Anthropic), an AI coding assistant, under the author's direction. The author designed the study, checked the
 stimuli and is responsible for the content.

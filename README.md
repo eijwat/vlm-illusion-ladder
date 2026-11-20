@@ -60,6 +60,14 @@ Thinking off = effort `low` with thinking disabled (Haiku: `disabled`; Sonnet: `
 accepts). Thinking on = effort `high` with adaptive thinking (the model decides whether to think). Calls were sent
 through the Message Batches API.
 
+## Making new illusion images
+
+`ladder/stimuli.py` draws all 25 illusions, each with its reversed and control version, using only Python and Pillow.
+Each illusion has its own drawing function with a few parameters (size, line width, colours, orientation and
+illusion-specific values such as the fin length and angle of the Müller-Lyer figure) and a fixed random seed, so new
+renders or new stimulus sets can be made by changing these values, e.g. for psychophysics with human observers or for
+training and testing other models.
+
 ## Reproduce
 
 Python 3.12 or later with `requests` and `Pillow` (no other packages).
