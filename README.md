@@ -41,9 +41,9 @@ Every prompt is listed in `prompts/prompts_all.md` (921 distinct texts).
 | `data/calls_main.jsonl.gz` | the main run: 460,800 calls (2 models × thinking off/on × 300 images × 8 rungs × 3 paraphrases × 16) |
 | `data/calls_trial-1.jsonl.gz` | pilot used to choose the thinking effort (3 illusions, 5 effort settings, 17,280 calls) |
 | `data/calls_check-1.jsonl.gz` | check of all 25 illusions at rungs 0 and 6 before the main run (800 calls) |
-| `ladder/` | code: `stimuli.py` (draws the stimuli), `prompts.py` (the ladder), `run_vlm.py` (API calls), `analyze.py` (analysis) |
+| `ladder/` | code: `stimuli.py` (draws the stimuli), `prompts.py` (the ladder), `run_vlm.py` (API calls), `analyze.py` (analysis), `figures.py` (stimulus figures) |
 | `results/` | output of `analyze.py` (tables, bootstrap intervals, plot data) |
-| `paper/` | LaTeX source of the paper |
+| `paper/` | LaTeX source of the paper (self-contained; `latexmk -pdf main.tex`) |
 
 ### One line of `data/calls_*.jsonl.gz`
 

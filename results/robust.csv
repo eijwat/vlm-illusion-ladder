@@ -1,0 +1,33 @@
+model,thinking,rung,n_two_sided,n_yes_no,n_total,illusions
+claude-haiku-5-5,off,-1,11,6,17,muller_lyer ponzo ebbinghaus delboeuf jastrow poggendorff fraser_spiral simultaneous_contrast checker_shadow white_effect hermann_grid munker_white neon_spreading ehrenstein rotating_snakes ouchi shepard_tables
+claude-haiku-5-5,off,0,4,6,10,poggendorff cafe_wall hering fraser_spiral simultaneous_contrast white_effect hermann_grid scintillating_grid neon_spreading shepard_tables
+claude-haiku-5-5,off,1,3,5,8,cafe_wall hering fraser_spiral simultaneous_contrast white_effect hermann_grid neon_spreading shepard_tables
+claude-haiku-5-5,off,2,4,1,5,poggendorff cafe_wall simultaneous_contrast white_effect shepard_tables
+claude-haiku-5-5,off,3,3,4,7,poggendorff fraser_spiral simultaneous_contrast hermann_grid scintillating_grid ehrenstein shepard_tables
+claude-haiku-5-5,off,4,2,4,6,fraser_spiral simultaneous_contrast hermann_grid scintillating_grid ehrenstein shepard_tables
+claude-haiku-5-5,off,5,6,3,9,delboeuf poggendorff simultaneous_contrast white_effect hermann_grid munker_white color_contrast ehrenstein shepard_tables
+claude-haiku-5-5,off,6,3,3,6,poggendorff simultaneous_contrast hermann_grid munker_white ehrenstein shepard_tables
+claude-haiku-5-5,on,-1,11,6,17,muller_lyer ponzo ebbinghaus delboeuf jastrow cafe_wall hering fraser_spiral simultaneous_contrast checker_shadow white_effect munker_white color_contrast ehrenstein rotating_snakes ouchi shepard_tables
+claude-haiku-5-5,on,0,7,5,12,muller_lyer ebbinghaus delboeuf zollner cafe_wall hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast shepard_tables
+claude-haiku-5-5,on,1,5,5,10,muller_lyer ebbinghaus cafe_wall hering fraser_spiral simultaneous_contrast checker_shadow hermann_grid color_contrast ouchi
+claude-haiku-5-5,on,2,1,0,1,checker_shadow
+claude-haiku-5-5,on,3,8,6,14,muller_lyer ponzo ebbinghaus delboeuf zollner hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast neon_spreading ehrenstein shepard_tables
+claude-haiku-5-5,on,4,8,5,13,muller_lyer ponzo ebbinghaus delboeuf zollner hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast ehrenstein shepard_tables
+claude-haiku-5-5,on,5,8,6,14,muller_lyer ponzo ebbinghaus delboeuf zollner hering simultaneous_contrast checker_shadow hermann_grid scintillating_grid munker_white color_contrast ehrenstein shepard_tables
+claude-haiku-5-5,on,6,8,6,14,muller_lyer ponzo ebbinghaus delboeuf zollner hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast neon_spreading ehrenstein shepard_tables
+claude-sonnet-5-5,off,-1,9,5,14,muller_lyer ebbinghaus delboeuf poggendorff zollner hering fraser_spiral simultaneous_contrast checker_shadow munker_white color_contrast ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,off,0,7,7,14,muller_lyer ebbinghaus delboeuf zollner cafe_wall hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast neon_spreading ehrenstein shepard_tables
+claude-sonnet-5-5,off,1,6,6,12,muller_lyer delboeuf zollner cafe_wall hering simultaneous_contrast hermann_grid munker_white color_contrast ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,off,2,0,0,0,
+claude-sonnet-5-5,off,3,7,7,14,muller_lyer ebbinghaus delboeuf zollner cafe_wall hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast neon_spreading ehrenstein shepard_tables
+claude-sonnet-5-5,off,4,8,7,15,muller_lyer ebbinghaus delboeuf zollner cafe_wall hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast neon_spreading ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,off,5,7,5,12,muller_lyer ebbinghaus delboeuf zollner hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast ehrenstein shepard_tables
+claude-sonnet-5-5,off,6,8,5,13,muller_lyer ebbinghaus delboeuf zollner hering simultaneous_contrast checker_shadow hermann_grid munker_white color_contrast ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,on,-1,10,8,18,muller_lyer ebbinghaus delboeuf poggendorff zollner cafe_wall hering fraser_spiral simultaneous_contrast checker_shadow white_effect munker_white color_contrast neon_spreading ehrenstein rotating_snakes ouchi shepard_tables
+claude-sonnet-5-5,on,0,9,7,16,muller_lyer ebbinghaus delboeuf zollner cafe_wall hering simultaneous_contrast checker_shadow white_effect hermann_grid munker_white color_contrast neon_spreading ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,on,1,5,5,10,muller_lyer zollner hering fraser_spiral simultaneous_contrast white_effect munker_white color_contrast ehrenstein rotating_snakes
+claude-sonnet-5-5,on,2,1,0,1,checker_shadow
+claude-sonnet-5-5,on,3,10,5,15,muller_lyer ebbinghaus delboeuf poggendorff cafe_wall hering simultaneous_contrast checker_shadow white_effect hermann_grid munker_white color_contrast ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,on,4,10,7,17,muller_lyer ebbinghaus delboeuf poggendorff zollner cafe_wall hering simultaneous_contrast checker_shadow white_effect hermann_grid munker_white color_contrast neon_spreading ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,on,5,10,5,15,muller_lyer ebbinghaus delboeuf poggendorff cafe_wall hering simultaneous_contrast checker_shadow white_effect hermann_grid munker_white color_contrast ehrenstein rotating_snakes shepard_tables
+claude-sonnet-5-5,on,6,10,6,16,muller_lyer ebbinghaus delboeuf poggendorff zollner cafe_wall hering simultaneous_contrast checker_shadow white_effect hermann_grid munker_white color_contrast ehrenstein rotating_snakes shepard_tables

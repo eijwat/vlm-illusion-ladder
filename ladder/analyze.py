@@ -163,7 +163,7 @@ def main(run="main"):
                                       - share("word")([non[rng.randrange(len(non))] for _ in non]) for _ in range(B))
                         delo, dehi = vals[int(0.025 * B)], vals[int(0.975 * B) - 1]
                     Dc = direction(non) if (kind == "two-sided" and rung == -1) else None
-                    row = dict(p=p, D=D, delta=de, side=side, pw=pw, Dc=Dc,
+                    row = dict(p=p, D=D, delta=de, side=side, pw=pw, Dc=Dc, D_lo=Dlo, delta_lo=delo,
                                pc_ind=share("correct")(ind), pc_none=share("correct")(non),
                                pc_diff=share("correct")(dif) if dif else None)
                     per[(st, ill, rung)] = row
@@ -219,6 +219,24 @@ def main(run="main"):
                 w.writerow([k, rung, n, fmt(share("ill")(cs)) if n else "", fmt(direction(cs)) if n else ""])
 
     assert unparsed == 0, unparsed
+    # illusions with a stimulus-driven effect: two-sided D with its 95% interval above 0.5 (and at least 10% side
+    # answers), yes/no delta with its interval above 0
+    with open(OUT / "robust.csv", "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["model", "thinking", "rung", "n_two_sided", "n_yes_no", "n_total", "illusions"])
+        for st in SETTINGS:
+            for rung in RUNGS:
+                hit = []
+                for ill in order:
+                    r = per[(st, ill, rung)]
+                    if info[ill]["kind"] == "two-sided":
+                        ok = r["D"] is not None and r["D_lo"] > 0.5 and r["side"] >= 0.1
+                    else:
+                        ok = r["delta_lo"] > 0
+                    if ok:
+                        hit.append(ill)
+                n2 = sum(info[i]["kind"] == "two-sided" for i in hit)
+                w.writerow([st[0], st[1], rung, n2, len(hit) - n2, len(hit), " ".join(hit)])
     write_report(order, info, per, summary, two, yn)
     write_tex(order, info, per, summary)
     print(f"wrote {OUT}/")
@@ -273,6 +291,42 @@ def write_tex(order, info, per, summary):
             for r in RUNGS:
                 f.write(f"{r} " + " ".join(" ".join(f"{x:.4f}" for x in summary[(st, r)][name]) for st in SETTINGS)
                         + "\n")
+
+    # per-illusion table: main measure at rungs 0, 2 and 6 for the four settings, the control and the +-10% check
+    L = [r"\begin{tabular}{llc" + "cc" * len(SETTINGS) + "cc}", r"\toprule",
+         r" & & & " + " & ".join(rf"\multicolumn{{2}}{{c}}{{{SHORT[st]}}}" for st in SETTINGS)
+         + r" & control & $\pm$10\% \\",
+         " ".join(rf"\cmidrule(lr){{{4 + 2 * k}-{5 + 2 * k}}}" for k in range(len(SETTINGS))),
+         r"Illusion & cat. & meas. & " + " & ".join("r0 & r6" for _ in SETTINGS) + r" & r0 & r0 \\", r"\midrule"]
+    for kind, meas in (("two-sided", "D"), ("yes/no", "delta")):
+        for ill in order:
+            if info[ill]["kind"] != kind:
+                continue
+            cells = []
+            for st in SETTINGS:
+                for r in (0, 6):
+                    v = per[(st, ill, r)][meas]
+                    few = meas == "D" and (per[(st, ill, r)]["side"] or 0) < 0.1     # D from under 10% side answers
+                    cells.append("--" if v is None else f"{v:.2f}".replace("-", "$-$") + ("$^\\dagger$" if few else ""))
+            # control: two-sided -> mean share of the correct "same"; yes/no -> mean share of the illusion word
+            ctl = [per[(st, ill, 0)]["pc_none"] if kind == "two-sided" else per[(st, ill, 0)]["pw"] for st in SETTINGS]
+            res = [per[(st, ill, 0)]["pc_diff"] for st in SETTINGS]
+            res = "--" if res[0] is None else f"{sum(res) / len(res):.2f}"
+            L.append(f"{NAMES.get(ill, ill)} & {info[ill]['category']} & {'$D$' if meas == 'D' else r'$\Delta$'} & "
+                     + " & ".join(cells) + f" & {sum(ctl) / len(ctl):.2f} & {res} \\\\")
+        L.append(r"\midrule" if kind == "two-sided" else r"\bottomrule")
+    L.append(r"\end{tabular}")
+    (OUT / "table_illusions.tex").write_text("\n".join(L) + "\n")
+
+
+NAMES = {"muller_lyer": "M\\\"uller-Lyer", "ponzo": "Ponzo", "ebbinghaus": "Ebbinghaus", "delboeuf": "Delboeuf",
+         "vertical_horizontal": "Vertical--horizontal", "jastrow": "Jastrow", "poggendorff": "Poggendorff",
+         "zollner": "Z\\\"ollner", "cafe_wall": "Caf\\'e wall", "hering": "Hering", "fraser_spiral": "Fraser spiral",
+         "simultaneous_contrast": "Simultaneous contrast", "checker_shadow": "Checker shadow",
+         "white_effect": "White's effect", "hermann_grid": "Hermann grid", "scintillating_grid": "Scintillating grid",
+         "munker_white": "Munker--White", "color_contrast": "Colour contrast", "neon_spreading": "Neon spreading",
+         "kanizsa": "Kanizsa triangle", "ehrenstein": "Ehrenstein", "rotating_snakes": "Rotating snakes",
+         "pinna_brelstaff": "Pinna--Brelstaff", "ouchi": "Ouchi", "shepard_tables": "Shepard tables"}
 
 
 if __name__ == "__main__":
