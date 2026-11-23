@@ -14,3 +14,17 @@ keywords:
   - vision-language models
   - perception
   - benchmark
+preferred-citation:
+  type: article
+  title: "Classical visual illusions in vision-language models under an instruction ladder"
+  authors:
+    - family-names: Watanabe
+      given-names: Eiji
+      orcid: "https://orcid.org/0000-0001-9089-8122"
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.27242"
+  doi: "10.48550/arXiv.2611.27242"
+  url: "https://arxiv.org/abs/2611.27242"
