@@ -6,7 +6,7 @@ the truth? This repository holds everything behind the paper: 300 self-drawn sti
 analysis.
 
 - Paper: [arXiv:2611.27242](https://arxiv.org/abs/2611.27242) (LaTeX source in `paper/`)
-- Archived release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24390082.svg)](https://doi.org/10.5281/zenodo.24390082) (v1.0.0)
+- Archived release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24390081.svg)](https://doi.org/10.5281/zenodo.24390081) (all versions; v1.0.0: [10.5281/zenodo.24390082](https://doi.org/10.5281/zenodo.24390082), v1.0.1: [10.5281/zenodo.24455865](https://doi.org/10.5281/zenodo.24455865))
 - Author: Eiji Watanabe, National Institute for Basic Biology, Okazaki, Japan
   ([ORCID 0000-0001-9089-8122](https://orcid.org/0000-0001-9089-8122))
 
